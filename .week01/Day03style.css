@@ -1,0 +1,21 @@
+.yellow{
+    background-color: yellow;
+    border-width: 4px;
+    border-color: black;
+    border-style: solid;
+    margin: 20PX;
+    padding: 20px;
+}
+
+#heading{
+    background-color: rgb(0, 255, 238);
+}
+#lorem{
+    background-color: rgb(255, 0, 208);
+}
+#lorem2{
+    background-color: rgb(0, 255, 0);
+}
+.span{
+    background-color: rgb(255, 0, 0);
+}

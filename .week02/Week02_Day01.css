@@ -1,0 +1,13 @@
+.main{
+    background-color: rgb(255, 0, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bootstrap{
+    background-color: rgb(65, 153, 144);
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+
+}
